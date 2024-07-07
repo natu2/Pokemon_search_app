@@ -1,0 +1,1 @@
+This is a Pokemon search app which allows a user to find information on a particular Pokemon by entering its ID or name. Information displayed includes its name, ID, height, weight, types and base stats. Information is fetched from api enpoints provided by FreeCodeCamp. This project was built using freeCodeCamp. 
